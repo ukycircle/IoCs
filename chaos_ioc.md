@@ -7,7 +7,7 @@ notation: sha256 (filename, family)
 - fb69b4b5637a6b7aa40ba7ae56ed617d375f67984c3028a7607e1764fdda8490  (as55.exe, Chaos)
 - 45680b3402dc7ae2f51f75bafbfddb8a29398818a48a6857342ea6385ad66b11  (as55_unpacked.exe, Chaos)
 - 68d90782ad76c3f9f3163e99c57697cfb1754035d5da84474f44f8c3636257e2  (bots.exe, BillGates)
-
+- 6aec0f5b6eaeb528ba6f17600193dd5bd0f621ba3c27284bf29bce56728e9ec7  (win.exe, Chaos)
 
 ## Linux
 - 866c3d8c7ca053516f45108832840680bc0649a669f4b94fd369c471213686d6  (linux_386, Chaos)
@@ -28,15 +28,20 @@ notation: sha256 (filename, family)
 - 9397b2dc1b47fbc3c49feec22d1b882fcbe5387ca5827341757847e49551327d  (linux_ppc64el, Chaos)
 - 9d05b6afbae1ec31ff2d82f1ff9062f7cbfab6346329261a4f19bad4f74d7ee8  (bots, BillGates)
 - 3a987e4972535a9e992253dce168e0499d8b6dfc6e4e19cc8be6153397668967  (syn, BillGates)
+- ec0c849db557051d2f6cdef6973ccc04b246fc58dca933cbb9fa1a7c7c01e71f  (386.sh, Chaos)
 
 ## Downloads
 
 - 103.254.72[.]193:808
 - 67.198.237[.]116
+- zf.gouzapay[.]cn/muma
+
 
 # C2s
 - ares.goodl1[.]com:10099
 - ars1.wemix[.]cc:9090
+- tf.xn--9kqv03dn4b[.]xyz:8080
+
 
 # C2 files
 
@@ -84,4 +89,5 @@ Some chaos malware use to connect to C2 server <b>using TLSv1.3</b>.
 # References
 - https://blog.lumen.com/chaos-is-a-go-based-swiss-army-knife-of-malware/
 - https://github.com/blacklotuslabs/IOCs/blob/main/Chaos_IoCs.txt
-
+- https://hackmd.io/F-SJlk7qRg-8xYZJjzM6lw
+- https://hackmd.io/XUdwubU3R-SvwVH8yBoKrg
